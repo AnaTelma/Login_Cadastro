@@ -57,8 +57,8 @@ public class CadastroActivity extends AppCompatActivity {
                     confirmar_senha.setError("Campo obrigatório");
                     return;
                 }
-                // Verifica se a senha e a confirmação de senha são iguais
-                if (senha_cadastro.equals(confirmar_senha.getText().toString())) {
+                   // Verifica se a senha e a confirmação de senha são iguais
+                if (!senha.equals(senhaConfirmacao)) {
                     confirmar_senha.setError("As senhas não correspondem");
                     return;
                 }
