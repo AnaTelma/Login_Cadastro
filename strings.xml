@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login">Login</string>
+    <string name="email"> e-mail</string>
+    <string name="senha"> senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="msg_cadastrar">Ainda não tem cadastro?</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="digitesenha">Digite a senha</string>
+    <string name="confirmesenha">Confirme a senha</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="nome"> Nome</string>
+
+</resources>
